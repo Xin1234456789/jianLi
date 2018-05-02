@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+   
+}
+body{
+    width: 90%;
+    max-width: 900px;
+    margin:  0 auto;
+    border: solid 1px rgb(172, 168, 168)
+} 
+
+.tou{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding-top: 10%;
+    width: 20%;
+   float: left;
+   background: rgb(54, 146, 207);
+   height: 600px;
+}
+
+.xin{
+   width: 75%;
+   float: right;
+  
+
+}
+.max1 div:nth-of-type(1){
+    width: 20%;
+    float: left;
+    
+}
+.max1 div:nth-of-type(2){
+    width: 20%;
+    float: left;
+}
+.max1 div:nth-of-type(3){
+    width: 30%;
+    float: left;
+}
+.max1 div:nth-of-type(4){
+    clear: both;
+}
+
+/*-----------------------------------------------------------------*/
+.max2 div:nth-of-type(1){
+    width: 30%;
+    float: left;
+    
+}
+.max2 div:nth-of-type(2){
+    width: 40%;
+    float: left;
+}
+.max2 div:nth-of-type(3){
+    width: 30%;
+    float: left;
+}
+.max1 div:nth-of-type(4){
+    clear: both;
+}

@@ -1,0 +1,250 @@
+*{
+    box-sizing: border-box;
+   
+}
+body{
+    width: 90%;
+    max-width: 900px;
+    margin:  0 auto;
+    border: solid 1px rgb(172, 168, 168)
+} 
+
+.tou{
+    text-indent: 2em;
+    color: rgb(255, 255, 255);
+    width:100%;
+   float: left;
+   background: rgb(85, 85, 85);
+  
+}
+
+.xin{
+   width: 100%;
+   float: right;
+  
+
+}
+.max1 div:nth-of-type(1){
+    width: 20%;
+    float: left;
+    line-height: 0;
+    margin-left: 10px;
+    
+}
+.max1 div:nth-of-type(2){
+    width: 26%;
+    float: left;
+    
+    line-height: 0;
+}
+.max1 div:nth-of-type(3){
+    width: 28%;
+    float: left;
+    line-height: 0;
+    
+}
+.max1 div:nth-of-type(4){
+    clear: both;
+}
+
+/*-------------------------------------------------------------------------*/
+.max2 div:nth-of-type(1){
+    width: 25%;
+    float: left;
+    margin-left: 10px;
+    line-height: 0;
+    
+}
+.max2 div:nth-of-type(2){
+    width: 38%;
+    float: left;
+    line-height: 0;
+}
+.max2 div:nth-of-type(3){
+    width: 35%;
+    float: left;
+    line-height: 0;
+}
+.max2 div:nth-of-type(4){
+    clear: both;
+}
+
+/*-------------------------------------------------------------------------*/
+.max3 div:nth-of-type(1){
+    
+    
+    margin-left: 10px;
+    line-height: 0;
+    
+    
+}
+.max3 div:nth-of-type(2){
+    margin-left: 10px;
+    line-height: 0;
+    
+}
+
+/*-------------------------------------------------------------------------*/
+.max4 div:nth-of-type(1){
+    
+    
+    margin-left: 10px;
+    line-height: 0;
+    
+    
+}
+.max4 div:nth-of-type(2){
+    margin-left: 10px;
+    line-height: 0;
+    
+}
+
+/*-------------------------------------------------------------------------*/
+
+
+.max5 div:nth-of-type(1){
+    
+    
+    margin-left: 10px;
+    line-height: 0;
+    
+    
+}
+.max5 div:nth-of-type(2){
+    margin-left: 10px;
+    line-height: 0;
+    
+}
+
+/*-------------------------------------------------------------------------*/
+
+
+.max1 article{
+   
+    width: 20%;
+    float: left;
+    height: 100px;
+    background: #d8d8d8;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height:100px;
+    border-bottom: solid 1px #ffffff;
+    
+    
+
+}
+.max1 aside{
+    display:block;
+    width: 80%;
+    float: right;
+    height: 100px;
+    background: #f6f4f4;
+    border-bottom: solid 1px #adadad;
+    
+  
+}
+/*-------------------------------------------------------------------------*/
+
+.max2 article{
+   
+    width: 20%;
+    float: left;
+    height: 100px;
+    background: #d8d8d8;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height:100px;
+    border-bottom: solid 1px #ffffff;
+    
+    
+
+}
+.max2 aside{
+    display:block;
+    width: 80%;
+    float: right;
+    height: 100px;
+    background: #f6f4f4;
+    border-bottom: solid 1px #adadad;
+  
+}
+
+/*-------------------------------------------------------------------------*/
+.max3 article{
+   
+    width: 20%;
+    float: left;
+    height: 100px;
+    background: #d8d8d8;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height:100px;
+    border-bottom: solid 1px #ffffff;
+}
+.max3 aside{
+    display:block;
+    width: 80%;
+    float: right;
+    height: 100px;
+    background: #f6f4f4;
+    border-bottom: solid 1px #adadad;
+  
+}
+
+/*-------------------------------------------------------------------------*/
+.max4 article{
+   
+    width: 20%;
+    float: left;
+    height: 100px;
+    background: #d8d8d8;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height:100px;
+    border-bottom: solid 1px #ffffff;
+    
+    
+
+}
+.max4 aside{
+    display:block;
+    width: 80%;
+    float: right;
+    height: 100px;
+    background: #f6f4f4;
+    border-bottom: solid 1px #adadad;
+  
+}
+
+/*-------------------------------------------------------------------------*/
+
+.max5 article{
+   
+    width: 20%;
+    float: left;
+    height: 100px;
+    background: #d8d8d8;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height:100px;
+    
+    
+    
+
+}
+.max5 aside{
+    display:block;
+    width: 80%;
+    float: right;
+    height: 100px;
+    background: #f6f4f4;
+    
+  
+}
+
+/*-------------------------------------------------------------------------*/
